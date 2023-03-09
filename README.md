@@ -26,4 +26,4 @@ flutter run
 
 ### Meta
 
-Effren Ouedraogo – [johnuberbacher.com](https://github.com/Eff4real/Telemedicine-TeleConsulting-Online-doctor-booking)
+Effren Ouedraogo – (https://github.com/Eff4real/Telemedicine-TeleConsulting-Online-doctor-booking)
