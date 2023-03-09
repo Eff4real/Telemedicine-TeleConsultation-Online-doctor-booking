@@ -10,7 +10,7 @@ Stores and loads data from noSQL Firebase.
 
 ### Installation
 ```
-git clone https://github.com/johnuberbacher/flutter_medical.git
+git clone https://github.com/Eff4real/Telemedicine-TeleConsulting-Online-doctor-booking.git
 
 flutter pub get
 
