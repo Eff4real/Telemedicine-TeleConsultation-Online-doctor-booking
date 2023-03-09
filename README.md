@@ -10,7 +10,7 @@ Stores and loads data from noSQL Firebase.
 
 ### Installation
 ```
-git clone https://github.com/Eff4real/Telemedicine-TeleConsulting-Online-doctor-booking.git
+git clone https://github.com/Eff4real/Telemedicine-TeleConsultation-Online-doctor-booking.git
 
 flutter pub get
 
@@ -26,4 +26,4 @@ flutter run
 
 ### Meta
 
-Effren Ouedraogo – (https://github.com/Eff4real/Telemedicine-TeleConsulting-Online-doctor-booking)
+Effren Ouedraogo – (https://github.com/Eff4real/Telemedicine-TeleConsultation-Online-doctor-booking)
